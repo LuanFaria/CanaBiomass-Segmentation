@@ -1,0 +1,1 @@
+Executar o APP.py
